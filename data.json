@@ -1,0 +1,119 @@
+[
+  {
+    "cargo": "Desarrollador de software",
+    "area": "tecnologia",
+    "empresa": "E-DEAS S.A.S.",
+    "logoEmpresa": "default",
+    "lugar": "remoto",
+    "salario": "3M - 3.5M",
+    "skills": ["Html", "Node Js", "React"],
+    "vacantes": "1",
+    "fechaPublicacion": "1",
+    "beneficios": "Trabajo remoto"
+  },
+  
+  {
+    "cargo": "Tecnico en Servicios Farmaceuticos Sabana de Torres",
+    "area": "otro",
+    "empresa": "OFFIMEDICAS S.A",
+    "logoEmpresa": "https://s3-us-west-2.amazonaws.com/peaku-public/business/Company/logo_url/80893/offiemedicas.png",
+    "lugar": "Presencial (Sabana de Torres)",
+    "salario": "",
+    "skills": [],
+    "vacantes": "",
+    "fechaPublicacion": "",
+    "beneficios": []
+  },
+  
+  {
+    "cargo": "",
+    "area": "",
+    "empresa": "",
+    "logoEmpresa": "default",
+    "lugar": "",
+    "salario": "",
+    "skills": [],
+    "vacantes": "",
+    "fechaPublicacion": "",
+    "beneficios": []
+  },
+  
+  {
+    "cargo": "",
+    "area": "",
+    "empresa": "",
+    "logoEmpresa": "default",
+    "lugar": "",
+    "salario": "",
+    "skills": [],
+    "vacantes": "",
+    "fechaPublicacion": "",
+    "beneficios": []
+  },
+  
+  {
+    "cargo": "",
+    "area": "",
+    "empresa": "",
+    "logoEmpresa": "default",
+    "lugar": "",
+    "salario": "",
+    "skills": [],
+    "vacantes": "",
+    "fechaPublicacion": "",
+    "beneficios": []
+  },
+  
+  {
+    "cargo": "",
+    "area": "",
+    "empresa": "",
+    "logoEmpresa": "default",
+    "lugar": "",
+    "salario": "",
+    "skills": [],
+    "vacantes": "",
+    "fechaPublicacion": "",
+    "beneficios": []
+  },
+  
+  {
+    "cargo": "",
+    "area": "",
+    "empresa": "",
+    "logoEmpresa": "default",
+    "lugar": "",
+    "salario": "",
+    "skills": [],
+    "vacantes": "",
+    "fechaPublicacion": "",
+    "beneficios": []
+  },
+  
+  {
+    "cargo": "",
+    "area": "",
+    "empresa": "",
+    "logoEmpresa": "default",
+    "lugar": "",
+    "salario": "",
+    "skills": [],
+    "vacantes": "",
+    "fechaPublicacion": "",
+    "beneficios": []
+  },
+  
+  {
+    "cargo": "",
+    "area": "",
+    "empresa": "",
+    "logoEmpresa": "default",
+    "lugar": "",
+    "salario": "",
+    "skills": [],
+    "vacantes": "",
+    "fechaPublicacion": "",
+    "beneficios": []
+  }
+  
+]
